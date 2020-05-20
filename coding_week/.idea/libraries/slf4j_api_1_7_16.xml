@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/slf4j-api-1.7.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/rome-utils-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/rome-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/httpmime-4.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/json-20190722.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/json-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/httpasyncclient-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/httpclient-4.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/httpcore-4.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/project-grp02/lib/httpcore-nio-4.4.10.jar!/" />
+      <root url="file://$PROJECT_DIR$/project-grp02" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/project-grp02/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

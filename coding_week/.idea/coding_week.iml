@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/project-grp02/bin" />
+    <output-test url="file:///test/coding_week" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/project-grp02">
+      <sourceFolder url="file://$MODULE_DIR$/project-grp02/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project-grp02/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/project-grp02/lib" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/project-grp02/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/project-grp02/src/main/resources/codingWrek/Style" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="sqlite-jdbc-3.28.0" level="project" />
+    <orderEntry type="library" exported="" name="json-simple-1.1.1" level="project" />
+    <orderEntry type="library" exported="" name="json-20190722" level="project" />
+    <orderEntry type="library" exported="" name="unirest-java-3.3.00-standalone" level="project" />
+    <orderEntry type="library" exported="" name="slf4j-api-1.7.16" level="project" />
+    <orderEntry type="library" exported="" name="unirest-java-3.1.00" level="project" />
+    <orderEntry type="library" exported="" name="rome-utils-1.7.1" level="project" />
+    <orderEntry type="library" exported="" name="jdom2-2.0.6" level="project" />
+    <orderEntry type="library" exported="" name="httpcore-nio-4.4.10" level="project" />
+    <orderEntry type="library" exported="" name="httpcore-4.4.11" level="project" />
+    <orderEntry type="library" exported="" name="gson-2.8.5" level="project" />
+    <orderEntry type="library" exported="" name="httpasyncclient-4.1.4" level="project" />
+    <orderEntry type="library" exported="" name="httpclient-4.5.9" level="project" />
+    <orderEntry type="library" exported="" name="httpmime-4.5.9" level="project" />
+    <orderEntry type="library" exported="" name="mp3spi1.9.5" level="project" />
+    <orderEntry type="library" exported="" name="jl1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="tritonus_share" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/project-grp02/lib/sqlite-jdbc-3.27.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
